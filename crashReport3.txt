@@ -1,0 +1,33 @@
+Fatal error!
+
+Unhandled Exception: EXCEPTION_ACCESS_VIOLATION reading address 0xffffffffffffffff IP: 0x00007ff774a05168
+
+0x00007ff774a05168 (module + 0x0000000002EB5168) VALORANT-Win64-Shipping.exe!UnknownFunction []
+0x00007ff77468154d (module + 0x0000000002B3154D) VALORANT-Win64-Shipping.exe!UnknownFunction []
+0x00007ff7746afd8e (module + 0x0000000002B5FD8E) VALORANT-Win64-Shipping.exe!UnknownFunction []
+0x00007ff7746afd09 (module + 0x0000000002B5FD09) VALORANT-Win64-Shipping.exe!UnknownFunction []
+0x00007ff7746afd09 (module + 0x0000000002B5FD09) VALORANT-Win64-Shipping.exe!UnknownFunction []
+0x00007ff7746809a8 (module + 0x0000000002B309A8) VALORANT-Win64-Shipping.exe!UnknownFunction []
+0x00007ff7746afd09 (module + 0x0000000002B5FD09) VALORANT-Win64-Shipping.exe!UnknownFunction []
+0x00007ff7746809a8 (module + 0x0000000002B309A8) VALORANT-Win64-Shipping.exe!UnknownFunction []
+0x00007ff7746afd09 (module + 0x0000000002B5FD09) VALORANT-Win64-Shipping.exe!UnknownFunction []
+0x00007ff7746afd09 (module + 0x0000000002B5FD09) VALORANT-Win64-Shipping.exe!UnknownFunction []
+0x00007ff7746afd09 (module + 0x0000000002B5FD09) VALORANT-Win64-Shipping.exe!UnknownFunction []
+0x00007ff7746afd09 (module + 0x0000000002B5FD09) VALORANT-Win64-Shipping.exe!UnknownFunction []
+0x00007ff7746afd09 (module + 0x0000000002B5FD09) VALORANT-Win64-Shipping.exe!UnknownFunction []
+0x00007ff7746afd09 (module + 0x0000000002B5FD09) VALORANT-Win64-Shipping.exe!UnknownFunction []
+0x00007ff7746afd09 (module + 0x0000000002B5FD09) VALORANT-Win64-Shipping.exe!UnknownFunction []
+0x00007ff7746afd09 (module + 0x0000000002B5FD09) VALORANT-Win64-Shipping.exe!UnknownFunction []
+0x00007ff7749fc023 (module + 0x0000000002EAC023) VALORANT-Win64-Shipping.exe!UnknownFunction []
+0x00007ff7749e60d7 (module + 0x0000000002E960D7) VALORANT-Win64-Shipping.exe!UnknownFunction []
+0x00007ff774b0f978 (module + 0x0000000002FBF978) VALORANT-Win64-Shipping.exe!UnknownFunction []
+0x00007ff774b0f5ab (module + 0x0000000002FBF5AB) VALORANT-Win64-Shipping.exe!UnknownFunction []
+0x00007ff774b05a18 (module + 0x0000000002FB5A18) VALORANT-Win64-Shipping.exe!UnknownFunction []
+0x00007ff773975ecc (module + 0x0000000001E25ECC) VALORANT-Win64-Shipping.exe!UnknownFunction []
+0x00007ff77397827c (module + 0x0000000001E2827C) VALORANT-Win64-Shipping.exe!UnknownFunction []
+0x00007ff773a9a2bb (module + 0x0000000001F4A2BB) VALORANT-Win64-Shipping.exe!UnknownFunction []
+0x00007ff773a933fc (module + 0x0000000001F433FC) VALORANT-Win64-Shipping.exe!UnknownFunction []
+0x00007ffe64617bd4 (module + 0x0000000000017BD4) KERNEL32.DLL!UnknownFunction []
+0x00007ffe6586ce51 (module + 0x000000000006CE51) ntdll.dll!UnknownFunction []
+
+Crash in runnable thread TaskGraphThreadHP 13
